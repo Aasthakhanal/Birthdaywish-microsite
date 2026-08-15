@@ -68,3 +68,4 @@ src/
 - Autoplay audio is intentionally avoided (mobile browsers block it) —
   the music player requires a tap, per the brief.
 - Respects `prefers-reduced-motion` for anyone with that OS setting on.
+# Birthdaywish-microsite
